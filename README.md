@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+<h1>
+  My name is Dilip Suthar, <br> 
+  Mobile Developer • Android • ReactNative • JS/TS
+</h1>
+
+<h3>
+  Follow me on <a href="https://twitter.com/dilipsuthar97">Twitter</a> • <a href="https://www.linkedin.com/in/dilipsuthar97/">Linkedin</a> • <a href="https://medium.com/@dilipsuthar97">Medium</a> • <a href="https://instagram.com/dilipsuthar97">Instagram</a>
+</h3>
+
+![Dilip's github stats](https://github-readme-stats.vercel.app/api?username=dilipsuthar97&show_icons=true&theme=light)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsuthar97)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>
+  ― Explore my profile! 👋
+</h3>
+
+
 <!--
 **dilipsuthar97/dilipsuthar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
