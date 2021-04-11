@@ -14,12 +14,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsuthar97)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=wallbox)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=materialcolor)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=react-native-tasty-toast)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=wallbox)](https://github.com/dilipsuthar97/WallBox)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=materialcolor)](https://github.com/dilipsuthar97/MaterialColor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=react-native-tasty-toast)](https://github.com/dilipsuthar97/react-native-tasty-toast)
 
 <h3>
-  ― Explore my profile! 👋
+  ― Explore the tech world! 👋
 </h3>
 
 
