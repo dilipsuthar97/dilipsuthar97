@@ -2,7 +2,7 @@
 
 <h1>
   My name is Dilip Suthar, <br> 
-  Mobile Developer • Android • ReactNative • JS/TS
+  Mobile Developer • ReactNative • JS/TS • Android
 </h1>
 
 <h3>
@@ -14,9 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsuthar97)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=RNWatermelonDB-demo)](https://github.com/dilipsuthar97/RNWatermelonDB-demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=react-native-tasty-toast)](https://github.com/dilipsuthar97/react-native-tasty-toast)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=wallbox)](https://github.com/dilipsuthar97/WallBox)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=materialcolor)](https://github.com/dilipsuthar97/MaterialColor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=react-native-tasty-toast)](https://github.com/dilipsuthar97/react-native-tasty-toast)
 
 <h3>
   ― Explore the tech world! 👋
