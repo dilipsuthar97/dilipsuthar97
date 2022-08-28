@@ -1,18 +1,22 @@
-### Hi there 👋
+### Hi! Dilip here 👋
 
-<h1>
-  My name is Dilip Suthar, <br> 
-  Mobile Developer • ReactNative • JS/TS • Android
-</h1>
+- 🚀 I'm currently working as a Software Engineer at [NeoSOFT Technologies](https://www.neosofttech.com/)
+  - Building cross platform buttery smooth mobile applications using ReactNative and ReactNativeReanimated.
+  - Nowdays exploring the new high performance 2D graphic rendering engine [ReactNativeSkia](https://shopify.github.io/react-native-skia/)
+  
+<h4>
+My socials <a href="https://www.linkedin.com/in/dilipsuthar97/">Linkedin</a> • <a href="https://instagram.com/dilipsuthar97">Instagram</a> • <a href="https://twitter.com/dilipsuthar97">Twitter</a> • <a href="https://medium.com/@dilipsuthar97">Medium</a>
+</h4>
 
-<h3>
-  Follow me on <a href="https://twitter.com/dilipsuthar97">Twitter</a> • <a href="https://www.linkedin.com/in/dilipsuthar97/">Linkedin</a> • <a href="https://medium.com/@dilipsuthar97">Medium</a> • <a href="https://instagram.com/dilipsuthar97">Instagram</a>
-</h3>
+## Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsuthar97)](https://github.com/anuraghazra/github-readme-stats)
+
+## Github Stats
 
 ![Dilip's github stats](https://github-readme-stats.vercel.app/api?username=dilipsuthar97&show_icons=true&theme=light)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsuthar97)](https://github.com/anuraghazra/github-readme-stats)
+## My Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=RNWatermelonDB-demo)](https://github.com/dilipsuthar97/RNWatermelonDB-demo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilipsuthar97&repo=react-native-tasty-toast)](https://github.com/dilipsuthar97/react-native-tasty-toast)
