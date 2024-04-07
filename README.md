@@ -2,7 +2,7 @@
 
 - 🚀 I'm currently working as a Software Engineer at [NeoSOFT Technologies](https://www.neosofttech.com/)
   - Building cross platform buttery smooth mobile applications using ReactNative and ReactNativeReanimated.
-  - Nowdays exploring the new high performance 2D graphic rendering engine [ReactNativeSkia](https://shopify.github.io/react-native-skia/)
+  - Currently learning about the new high-performance 2D graphic rendering engine, [React Native Skia](https://shopify.github.io/react-native-skia/).
   
 <h4>
 My socials <a href="https://www.linkedin.com/in/dilipsuthar97/">Linkedin</a> • <a href="https://instagram.com/dilipsuthar97">Instagram</a> • <a href="https://twitter.com/dilipsuthar97">Twitter</a> • <a href="https://medium.com/@dilipsuthar97">Medium</a>
